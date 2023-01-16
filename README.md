@@ -6,6 +6,11 @@
 
 # PEMOGRAMAN WEB | IURAN KAS RT
 
+| Nama      | Aditya Bani Isro |
+| ----------- | ----------- |
+| NIM     | 312010134       |
+| Kelas   | TI.20.A.1        |
+
 | Login |
 | ----------- | ----------- |
 | Username     | fariz       |
